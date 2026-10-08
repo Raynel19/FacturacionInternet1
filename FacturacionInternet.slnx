@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FacturacionInternet.API/FacturacionInternet.API.csproj" />
+  <Project Path="FacturacionInternet.Domain/FacturacionInternet.Domain.csproj" />
+  <Project Path="FacturacionInternet.infrastructure/FacturacionInternet.infrastructure.csproj" />
+</Solution>
